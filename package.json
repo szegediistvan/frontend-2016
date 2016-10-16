@@ -1,0 +1,32 @@
+{
+  "name": "frontend-2016",
+  "version": "1.0.0",
+  "description": "tutorial project",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"error\""
+  },
+  "devDependencies": {
+    "del": "^2.2.2",
+    "glob": "^7.0.5",
+    "gulp": "^3.9.1"
+  },
+  "frontend-2016-configs": {
+    "directories": {
+      "archive": "archive",
+      "dist": "dist",
+      "src": "src",
+      "test": "test"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szegediistvan/frontend-2016.git"
+  },
+  "author": "pisty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szegediistvan/frontend-2016/issues"
+  },
+  "homepage": "https://github.com/szegediistvan/frontend-2016#readme"
+}
